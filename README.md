@@ -1,5 +1,8 @@
 # 💫 About Me:
-🛠 I’m currently working on<br>A Home Energy Management System (HEMS) to optimize energy usage using AI simulation.<br><br>🤝 I’m looking to collaborate on<br>Projects in IoT, robotics, and system administration.<br><br>👀 I’m looking for help with<br>Exploring new technologies in hardware engineering and robotics integration.<br><br>🌱 I’m currently learning<br>Advanced concepts in IoT, AI-driven systems, and hardware prototyping.<br><br>💬 Ask me about<br>Software development, networking, and AI in home energy management.<br><br>⚡ Fun fact<br>I love watching football, listening to music, and unwinding with a good movie.
+👋 Hi, I’m Evans M Kariuki<br>🛠 I’m currently working on<br>A Home Energy Management System (HEMS) to optimize energy usage using AI simulation.<br><br>🤝 I’m looking to collaborate on<br>Projects in IoT, robotics, and system administration.<br><br>👀 I’m looking for help with<br>Exploring new technologies in hardware engineering and robotics integration.<br><br>🌱 I’m currently learning<br>Advanced concepts in IoT, AI-driven systems, and hardware prototyping.<br><br>💬 Ask me about<br>Software development, networking, and AI in home energy management.<br><br>⚡ Fun fact<br>I love watching football, listening to music, and unwinding with a good movie.<br>📫 How to reach me +254112178578
+
+
+
 
 
 ## 🌐 Socials:
