@@ -45,7 +45,7 @@ When I'm not coding, you can find me watching **football**, listening to **music
 
 
 
-
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/evan.kariuki.140) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vansking254) 
@@ -53,7 +53,7 @@ When I'm not coding, you can find me watching **football**, listening to **music
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@vansking254) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/VansKE027) 
 
-## 💻 Tech Stack & Expertise
+
 
 ---
 
@@ -100,7 +100,7 @@ When I'm not coding, you can find me watching **football**, listening to **music
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
+<br></br><br></br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vanzzy027&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
