@@ -1,4 +1,4 @@
-#<b>💫 About Me:
+# <b>💫 About Me:
 
 👋 Hi, I’m Evans M Kariuki — an IT graduate from the University of Embu passionate about IoT, Robotics, and Software Development.<br><br>
 
