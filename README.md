@@ -57,13 +57,11 @@ When I'm not coding, you can find me watching **football**, listening to **music
 
 ---
 
+## 💻 Tech Stack & Expertise
+
+---
+
 ### 🌐 Languages
-*C* is for **C**
-*C++* is for **C++**
-*JavaScript* is for **JavaScript**
-*HTML5* is for **HTML5**
-*Python* is for **Python**
-*PHP* is for **PHP**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -73,11 +71,6 @@ When I'm not coding, you can find me watching **football**, listening to **music
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🧱 Frameworks & Platforms
-*Django* is for **Django**
-*Flutter* is for **Flutter**
-*TensorFlow* is for **TensorFlow**
-*Twilio* is for **Twilio**
-*Apache* is for **Apache**
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
@@ -86,19 +79,12 @@ When I'm not coding, you can find me watching **football**, listening to **music
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ### 💾 Databases
-*Oracle* is for **Oracle**
-*MicrosoftSQLServer* is for **Microsoft SQL Server**
-*SQLite* is for **SQLite**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ☁️ Cloud & Deployment
-*Azure* is for **Azure**
-*Google Cloud* is for **Google Cloud**
-*Firebase* is for **Firebase**
-*Netlify* is for **Netlify**
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
@@ -106,21 +92,16 @@ When I'm not coding, you can find me watching **football**, listening to **music
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ### 🛠 Tools & Hardware (IoT Focus)
-*Git* is for **Git**
-*GitHub* is for **GitHub**
-*Figma* is for **Figma**
-*Postman* is for **Postman**
-*SSMS* is for **SSMS (SQL Server Management Studio)**
-*Arduino* is for **Arduino**
-*Raspberry Pi* is for **Raspberry Pi**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Postman](https://imgshields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![SSMS](https://img.shields.io/badge/SSMS-%2300599C?style=for-the-badge&logo=SSMS&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vanzzy027&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vanzzy027&theme=shadow_green&hide_border=false)<br/>
