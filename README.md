@@ -1,29 +1,46 @@
-# <b>💫 About Me:
+# 🌟 Evans M Kariuki: Software Engineer | IoT & AI Enthusiast
 
-👋 Hi, I’m Evans M Kariuki — an IT graduate from the University of Embu passionate about IoT, Robotics, and Software Development.<br><br>
+---
 
-🧠 Former Google Developer Group (GDG) on Campus IoT & Robotics Lead — where I guided peers in building automation and embedded systems.<br><br>
+## 👋 About Me
 
-💻 Co-founder and Vice Chairperson of the Code & Tech Society, a student-led tech community that promotes collaboration, coding culture, and real-world project experience.<br><br>
+I'm an **Information Technology graduate** from the University of Embu, driven by a passion for **IoT, Robotics, and Software Development**. My background is a blend of hardware, embedded systems, and modern software practices.
 
-🚀 Currently advancing my software engineering skills through the Teach2Give Software Development Training Program, combining my IoT background with modern development practices.<br><br>
+### 💡 Tech Leadership & Community
 
-🛠 I’m currently working on:<br>
-A Home Energy Management System (HEMS) that uses AI simulation to optimize power efficiency in smart homes.<br><br>
+* **🧠 Former GDG on Campus IoT & Robotics Lead** where I guided peers in building automation and embedded systems.
+* **💻 Co-founder & Vice Chairperson** of the **Code & Tech Society**, a student-led community focused on collaboration, coding culture, and real-world project experience.
 
-🤝 I’m looking to collaborate on:<br>
-Projects involving IoT, AI-driven automation, and system development that push the boundaries of innovation.<br><br>
+---
 
-🌱 I’m currently learning:<br>
-AI integration in IoT systems, cloud-connected automation, and hardware prototyping.<br><br>
+## 🚀 Current Focus & Projects
 
-💬 Ask me about:<br>
-Internet of Things, Software Development, Networking, and AI/ML in home energy management.<br><br>
+### 🛠 Working On:
+A **Home Energy Management System (HEMS)** that uses **AI simulation** to optimize power efficiency in smart homes. I'm bridging my IoT expertise with advanced machine learning for practical, sustainable solutions.
 
-⚡ Fun fact:<br>
-I love watching football, listening to music, and unwinding with a good movie.<br><br>
+### 🌱 Currently Learning:
+* **AI Integration** in IoT systems.
+* **Cloud-Connected Automation**.
+* Advanced **Hardware Prototyping** techniques.
 
-📫 How to reach me: +254112178578
+### 🎯 Advancing Skills:
+Currently elevating my software engineering capabilities through the **Teach2Give Software Development Training Program**, combining my embedded systems knowledge with modern development practices.
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+| Category | Details |
+| :--- | :--- |
+| **Collaboration** | Open to projects involving **IoT, AI-driven automation,** and robust **system development** that push the boundaries of innovation. |
+| **Ask Me About** | Internet of Things, Software Development, Networking, and AI/ML in home energy management. |
+| **Contact** | Drop me a message: **+254112178578** |
+
+---
+
+## ⚡ Fun Fact
+
+When I'm not coding, you can find me watching **football**, listening to **music**, or unwinding with a good movie.
 
 
 
